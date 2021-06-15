@@ -1,0 +1,13 @@
+wolf eat pigs because they annoy him.
+playing characters=wolf
+NPCs=pigs
+aim=eat all of pigs
+rules=the wolf eats the pigs
+challenges=rocks in wolf's path
+bonus is the wolf eats a certain number of pigs he gets a speed boost or a strength boost.
+wolf lifetime= 3 lives
+pigs=40
+level 1= wolf small and cross the hurdles and pigs come intto play
+level two= the boosts come into playing and more rocks and a checkpoint
+level 3= more rocks and more pigs and longer distances from checkpoints and trees
+level 4-else=more rocks/pigs/trees/checkpoints each level
